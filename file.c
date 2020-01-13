@@ -1,8 +1,1 @@
-dvadsvadsvaCVAc
-asdva
-dvasdv
-
-
-
-
-asdcasdvasdv
+#include<stdio.h>
